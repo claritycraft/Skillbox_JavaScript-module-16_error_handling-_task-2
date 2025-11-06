@@ -5,7 +5,7 @@
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 
 ### En:
-#### Task 1
+#### Task 2
 What You Need to Do
 Below is a simple program that prompts the user for their name.
 Modify the greeting function so that if the username is empty, an alert is triggered from the catch block with the message:
@@ -14,7 +14,7 @@ Modify the greeting function so that if the username is empty, an alert is trigg
 ____________________________________________________________________________________________________
 
 ### Ru:
-#### Задача 1
+#### Задача 2
 Ниже представлена простая программа, запрашивающая имя пользователя.
 
 Скорректируйте функцию greeting так, чтобы при пустом username сработал alert из catch-блока с сообщением «Имя обязательно для заполнения».
